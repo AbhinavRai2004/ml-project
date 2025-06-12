@@ -1,6 +1,6 @@
 /venv
-/artifacts
 /logs
 /.env
+/catboost_info
 # Ignore Python cache files
 __pycache__/
